@@ -1,0 +1,12 @@
+questão 1
+#include <stdio.h>
+
+int main() {
+    printf("total = 100%");
+    printf("IVA = 17%");
+    printf("IRS = 15%");
+    printf("líq. = 68%%\n");
+    
+    return 0;
+}
+
